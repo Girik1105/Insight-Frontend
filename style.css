@@ -149,7 +149,8 @@ header .container {
 }
 
 .links li{
-    margin: 2rem 1rem;
+    margin: 3rem 1rem;
+    padding-top: 1rem;
     font-size: 1rem;
     font-family: 'Questrial', sans-serif;
     color: white;
